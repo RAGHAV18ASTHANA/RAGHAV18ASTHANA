@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RAGHAV18ASTHANA
 - 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ...pyhton
+- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...coding 
-- 📫 How to reach me ...email 
+- 📫 How to reach me ...email raghavasthana9112gmail.com
 
 <!---
 RAGHAV18ASTHANA/RAGHAV18ASTHANA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
